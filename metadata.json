@@ -1,0 +1,6 @@
+{
+  "name": "English Star Academy",
+  "description": "Interactive gamified English learning platform with vocabulary, grammar, quizzes, daily challenges, streaks, and math practice.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
